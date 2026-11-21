@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Hygiene rules (added during migration)
+.gitpulse/
+.vercel
+.env
+.env.local
+.env.*.local
+AGENTS.md
+GEMINI.md
+CLAUDE.md
+.cursorrules
+AI_SHARED_MEMORY.md
+__pycache__/
+*.py[cod]
